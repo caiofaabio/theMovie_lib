@@ -25,7 +25,7 @@ O aplicativo também inclui estilos CSS para a apresentação visual dos compone
 ## Configuração das variáveis de ambiente
 
 Para a correta execução do aplicativo, é necessário configurar as variáveis de ambiente. Crie um arquivo `.env` na raiz do projeto e defina as seguintes variáveis:
-- VITE_API_KEY=api_key=cfcf3e89850f6980fb369a7a64a6f234
+- VITE_API_KEY=api_key= na documentação da api gera a key
 - VITE_API=https://api.themoviedb.org/3/movie/
 
 Substitua `<URL da API do The Movie DB>` pela URL da API do The Movie DB e `<Chave de API do The Movie DB>` pela chave de API fornecida pelo The Movie DB.
